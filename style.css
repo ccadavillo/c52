@@ -73,14 +73,14 @@ header img {
 
 body {
     height: 125vh;
-    
+    background-color:darkseagreen;
     background-size: cover;
     font-family: Georgia, 'Times New Roman', Times, serif, serif;
     margin-top: 80px;
     padding: 30px;
 }
 header {
-    background-color: white;
+    background-color:khaki;
     position: fixed;
     top: 0;
     left: 0;
